@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    font-family: 'Games', sans-serif;
+                                                                                                                                                                                                                                                
+}
+.h1_Refresh{
+    color: #949ba5;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 900;
+
+}
+.h1_Refresh:hover {
+    color: #ffffff;
+}
+.content{
+    color: whitesmoke;
+}
+.content .row {
+    text-align: center;
+    margin-top: 50px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 140px;
+    color: #949ba5;
+}
